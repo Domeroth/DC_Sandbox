@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Transact SDK">
+    <CLASSES>
+      <root url="file://C:/Program Files/Java/jdk1.8.0_181/lib" />
+      <root url="file://$USER_HOME$/Downloads/transact-sdk-18.5.3/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files/Java/jdk1.8.0_181/lib" />
+      <root url="file://$USER_HOME$/Downloads/transact-sdk-18.5.3/lib" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Java/jdk1.8.0_181/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/transact-sdk-18.5.3/lib" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/Java/jdk1.8.0_181/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/transact-sdk-18.5.3/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
